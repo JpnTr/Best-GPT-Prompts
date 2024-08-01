@@ -82,4 +82,18 @@ Creating effective prompts for AI to write tech articles involves guiding it to 
 - Summarize the key points and include a call to action or next steps.
 - Use keywords naturally to reinforce the article's focus.
 
+## **Prompt Example for SEO-friendly article writing**
+
+Write a comprehensive and informative article of approximately [insert word count] words on [primary topic] that appeals to [target audience] looking for [specific benefit or feature]. Start with a captivating introduction that draws readers in, using long-tail keywords like [long-tail keyword 1] and [long-tail keyword 2].
+
+In the main body, highlight the benefits of [related topic or feature], incorporating LSI keywords such as [LSI keyword 1], [LSI keyword 2], and [LSI keyword 3]. Use conversational language to naturally discuss the top features of [primary topic], addressing common concerns like [concern 1] and [concern 2] with phrases like [natural language phrase 1] and [natural language phrase 2].
+
+Include a detailed review of a popular [specific product or subtopic], ensuring to weave in keywords like [specific keyword 1] and [specific keyword 2]. Write SEO-friendly headings and subheadings, such as [heading 1] and [heading 2], to improve readability and searchability.
+
+Add a section comparing different [related products or options], using long-tail keywords like [comparison keyword 1] and [comparison keyword 2]. Suggest practical use cases for [primary topic], incorporating phrases like [use case phrase 1] and [use case phrase 2].
+
+Conclude with a compelling call to action, encouraging readers to explore their options and take advantage of current deals, using phrases like [call to action 1] and [call to action 2].
+
+Remember to include relevant visuals with alt text, such as [alt text keyword 1] and [alt text keyword 2], to enhance the article's appeal and SEO value. Aim to provide value and address the reader's intent by offering insights, comparisons, and tips tailored to their needs.
+
 By using these prompts and tips, you can leverage AI to write high-quality, SEO-friendly tech articles that engage readers and attract more visitors to your site.
