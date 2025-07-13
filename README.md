@@ -27,6 +27,7 @@ The use of AI, particularly models like GPT, can greatly enhance productivity an
 ### Coding
 - **Description**: Prompts tailored for coding tasks, software development, and troubleshooting.
 - **Example Prompt**: "Provide a structured JSON response for a web application API."
+- [Project-Scaffolding-Prompt.md](https://github.com/JpnTr/Best-GPT-Prompts/blob/main/Project-Scaffolding-Prompt.md) - Create Full Stack Project With One Prompt
 
 ### Article Writing
 - **Description**: Prompts for generating articles, blog posts, and other written content across various topics.
@@ -67,7 +68,7 @@ The use of AI, particularly models like GPT, can greatly enhance productivity an
 ## Usage
 To use these prompts, simply copy and paste them into your preferred GPT model interface. Modify the parameters or topics as needed to suit your specific needs.
 
-## Markdown Files
+## Other Markdown Files
 - [Educational-API-Style Guide.md](https://github.com/JpnTR/Best-GPT-Prompts/blob/main/Educational-API-Style%20Guide.md): A comprehensive guide for generating structured JSON responses for educational purposes.
 
 Feel free to add more markdown files as you create them!
